@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    color: blue;
+    text-align: center;
+    size: 60px;
+}
+.img{
+    background-image: url(./Saylani.jpg);
+    height: 800px;
+    background-repeat: no-repeat;
+    margin: 0px auto;
+    width: 800px;
+}
